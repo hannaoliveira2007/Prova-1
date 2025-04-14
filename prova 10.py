@@ -3,5 +3,5 @@ n1 = []
 x = 0
 
 print(n[::-1])
-n.sort()
+n.sort(reverse=True)
 print(n)
